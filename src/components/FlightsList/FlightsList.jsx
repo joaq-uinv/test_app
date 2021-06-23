@@ -22,15 +22,6 @@ const FlightsList = () => {
         />
       ))}
     </List>
-    // <ul>
-    //   {flights.map((flight) => (
-    //     <Flight
-    //       key={flight.id}
-    //       origin={flight.origin}
-    //       destination={flight.destination}
-    //     />
-    //   ))}
-    // </ul>
   );
 };
 
